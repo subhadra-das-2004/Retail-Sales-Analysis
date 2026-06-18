@@ -1,0 +1,8 @@
+
+This project analyzed a retail sales dataset containing over 323,000 transaction records. Data cleaning, exploratory data analysis, and business intelligence techniques were applied to identify revenue patterns and performance drivers.
+
+Key findings revealed that Product P0129 generated the highest revenue among all products, while Store S0097 emerged as the best-performing store. Product Cluster_0 contributed the largest share of overall revenue, indicating strong customer demand within that segment. City C014 significantly outperformed other cities in terms of revenue generation.
+
+Correlation analysis showed a strong positive relationship between sales and revenue, while price demonstrated minimal impact on revenue generation. Revenue distribution analysis indicated that most transactions generated low revenue, with a small number of high-value transactions contributing substantially to total revenue.
+
+The insights generated from this analysis can help retailers optimize inventory planning, focus marketing efforts on high-performing product segments, and improve decision-making for store and city-level operations.
